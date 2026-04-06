@@ -10,6 +10,5 @@
 
 📫 Reach me at:
  | lk883284@gmail.com
- (
-
+ 
 ⚡ Fun fact: I love solving LeetCode problems daily and exploring new design ideas for modern UIs!
